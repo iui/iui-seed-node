@@ -1,0 +1,8 @@
+{
+  "name" : "iui-seed-node",
+  "version" : "0.1",
+  "description": "iUI Music Sample App served by Node.js",
+  "dependencies": {
+    "node-static": ">=0.6.5"
+  }
+}
