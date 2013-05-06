@@ -1,0 +1,24 @@
+{
+    "id": "iui-seed-clickstart",
+    "name": "iUI iOS style mobile webapps",
+    "source": "github",
+    "description" : "Deploy an iUI mobile application on CloudBees (nodejs server)",
+    "icon" : "https://d3ko533tu1ozfq.cloudfront.net/clickstart/nodejs_large.png",    
+
+    "supported-by" : "community",
+    "order" : 5,
+
+    "runtime": {
+        "type": "nodejs",
+         "app-parameters" : { 
+            "runtime.PLUGIN.SRC.nodejs": "https://s3.amazonaws.com/clickstacks/admin/nodejs-plugin-0.8.21.zip"
+        }    
+    },
+    "build-with-jenkins": {
+	"template": {
+            "type": "https://raw.github.com/iui/iui-seed-node/master/jenkins.xml",
+            "options": {
+            }            
+        }
+    }
+}
