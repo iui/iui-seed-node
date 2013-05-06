@@ -21,6 +21,7 @@ To See the Jenkins Management Page
 
 Visit: [https://iui.ci.cloudbees.com/job/iui-seed-node/](https://iui.ci.cloudbees.com/job/iui-seed-node/)
 
+<img src="https://raw.github.com/iui/iui-seed-node/master/iui-seed-screenshot.png"/>
 
 To Run locally
 --------------
