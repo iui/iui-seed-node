@@ -13,14 +13,20 @@ This is a prototype "seed" project that uses [iUI](http://www.iui-js.org) on the
 To See it Running on CloudBees
 ------------------------------
 
-Visit: [node-seed.iui.cloudbees.net](http://node-seed.iui.cloudbees.net)
+Visit: [iui-seed-node.iui.cloudbees.net](http://iui-seed-node.iui.cloudbees.net/)
+
+To See the Jenkins Management Page
+----------------------------------
+
+Visit: [https://iui.ci.cloudbees.com/job/iui-seed-node/](https://iui.ci.cloudbees.com/job/iui-seed-node/)
+
 
 To Run locally
 --------------
 
     ./node-run.sh
     
-To Deploy to CloudBees
+To Manually Deploy to CloudBees
 ----------------------
 
     ./node-deploy-cloudbees.sh
