@@ -11,7 +11,7 @@
     "runtime": {
         "type": "nodejs",
          "app-parameters" : { 
-            "runtime.PLUGIN.SRC.nodejs": "https://s3.amazonaws.com/clickstacks/admin/nodejs-plugin-0.10.2.zip"
+            "runtime.PLUGIN.SRC.nodejs": "https://s3.amazonaws.com/clickstacks/admin/nodejs-plugin-0.8.21.zip"
         }    
     },
     "build-with-jenkins": {
