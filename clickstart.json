@@ -3,7 +3,7 @@
     "name": "iUI iOS style mobile webapps",
     "source": "github",
     "description" : "Deploy an iUI mobile application on CloudBees (nodejs server)",
-    "icon" : "https://d3ko533tu1ozfq.cloudfront.net/clickstart/nodejs_large.png",    
+    "icon" : "https://s3.amazonaws.com/cloudbees-downloads/clickstart/iui.png",    
 
     "supported-by" : "community",
     "order" : 5,
