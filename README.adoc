@@ -2,7 +2,7 @@
 
 An iUI starter project using Node.js for the server-side
 
-.To deploy on CloudBees (with one click)
+== To deploy on CloudBees (with one click)
 
 Click the image:
 
@@ -12,22 +12,20 @@ This will clone the repo into your own private repo, setup a build and deploy yo
 
 This is a prototype "seed" project that uses http://www.iui-js.org[iUI] on the client and http://nodejs.org[Node.js] on the server.
 
-.To See it Running on CloudBees
+== To See it Running on CloudBees
 
 Visit:  http://iui-seed-node.iui.cloudbees.net/[iui-seed-node.iui.cloudbees.net]
 
 image::https://raw.github.com/iui/iui-seed-node/master/iui-seed-screenshot.png[]
 
-
-.To See the Jenkins Management Page
+== To See the Jenkins Management Page
 
 Visit: https://iui.ci.cloudbees.com/job/iui-seed-node/[iui.ci.cloudbees.com/job/iui-seed-node/]
 
-
-.To Run locally
+== To Run locally
 
  ./node-run.sh
     
-.To Manually Deploy to CloudBees
+== To Manually Deploy to CloudBees
 
  ./node-deploy-cloudbees.sh
